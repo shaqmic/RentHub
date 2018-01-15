@@ -1,0 +1,12 @@
+package controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MainController {
+
+	
+	public void getContactInfo(String locationID) {
+		
+	}
+}
